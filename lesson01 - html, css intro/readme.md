@@ -12,16 +12,18 @@ Environment:
 
 # Hands-on
 
-### 1. HTML Basics
-
-### 2. CSS Basics
-
-### 3. Formatting Code
-
-### 4. Inspect Page (devtools) - DOM
-
-### 5. Summary
-
-### Links
-
-![Alt text](image.png)
+1. HTML Basics
+2. CSS Basics
+3. Formatting Code
+4. Inspect Page (devtools) - DOM
+5. Heading section: charset, viewport, keyboard, description
+6. Text: h1-6, p, span
+7. Links: target="_blank", download, image path
+8. Images: src, alt
+9. Entities: ©, <, >
+10. Video & Audio : src, autoplay, controls, loop
+12. List : ul, ol, li, dl, dt, dd
+13. Table : table, thead, tbody, tr, th, td
+## Дасгал:
+ ![Alt text](image-1.png)
+ ![Alt text](image-2.png)
