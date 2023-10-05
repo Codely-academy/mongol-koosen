@@ -1,0 +1,73 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f0f0f0;
+}
+main {
+    margin-bottom: 100px;
+}
+
+h1 {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+nav {
+    background-color: #444;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    display: flex; /* Flexbox ашиглаж байна */
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+h2 {
+    margin: 20px;
+}
+
+span {
+    display: block;
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add box shadow */
+    border-radius: 10px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    object-fit: contain;
+}
+p {
+    margin: 20px;
+}
+
+h3 {
+    margin: 20px;
+}
+
+li {
+    margin: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

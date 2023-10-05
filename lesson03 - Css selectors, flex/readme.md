@@ -1,4 +1,4 @@
-# Хичээл 2:
+# Хичээл 3:
 
 ### Slide: <https://docs.google.com/presentation/d/1fuA7aV8n5q8ni812dD2xIpcjWHZJEMIIos1WGUkXRrU/edit?usp=sharing>
 
