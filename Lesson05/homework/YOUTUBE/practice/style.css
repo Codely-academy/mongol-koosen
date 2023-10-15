@@ -1,0 +1,17 @@
+.top {
+  background-color: aqua;
+  height: 60px;
+}
+.left {
+  background-color: pink;
+  flex: 1;
+}
+
+.right {
+  background-color: lightblue;
+  flex: 6;
+}
+.container {
+  display: flex;
+  height: 95vh;
+}
