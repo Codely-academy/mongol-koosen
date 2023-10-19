@@ -1,0 +1,18 @@
+body {
+  transition: 0.4s ease-in;
+}
+
+/* Screen width < 600px */
+@media screen and (max-width: 600px) {
+  body {
+    background-color: gold;
+    color: white;
+  }
+}
+/* Screen width < 600px */
+@media screen and (min-width: 601px) and (max-width: 1200px) {
+  body {
+    background-color: aqua;
+    color: black;
+  }
+}

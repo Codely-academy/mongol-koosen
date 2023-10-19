@@ -1,0 +1,20 @@
+.gaming {
+  width: 50px;
+}
+
+.gaming:hover {
+  color: orange;
+}
+.box {
+  background-color: aqua;
+  width: 100px;
+  height: 100px;
+  transition: 1s ease-in-out;
+}
+.box:hover {
+  background-color: gold;
+  transform: scale(1.2);
+  /* transform: rotate(45deg); */
+  /* transform: skew(-45deg); */
+  /* transform: translate(40px, 40px); */
+}
