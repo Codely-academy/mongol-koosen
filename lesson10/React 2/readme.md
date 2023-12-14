@@ -40,6 +40,8 @@ const MyComponent = () => {
 
   ```js
   const Sneaker = ({ imageUrl, header, description }) => {
+    const numbers = [1,2,3,4]
+    const numbers = [{name:"Blazer"},{name:"Blazer"},{name:"Blazer"},{name:"Blazer"}]
     return (
       <div className="product-card">
         <img className="product-image" src={imageUrl} alt="Product" />
