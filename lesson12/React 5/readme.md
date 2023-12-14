@@ -4,7 +4,6 @@
 ```jsx
  true ? 'on' : 'off'
 ```
-
 #### Дараах компонентийг  conditional rendering ашиглан бичиж үзье.
 ToggleButton нэртэй дарах үед ON, OFF болж өнгө нь өөрчлөгддөг компонент бич.
 
