@@ -1,0 +1,14 @@
+CSS 
+ - selectors
+ - Media query
+ - Flex 
+JS
+ - IF 
+ - Loop 
+ - Array 
+
+React: 
+    Component 
+    Map 
+    State 
+    
