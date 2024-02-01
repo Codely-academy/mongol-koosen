@@ -1,8 +1,7 @@
-# Хичээл 32: Click speed тоглоом: 1 Counter + Timer
+# Click speed тоглоом: 1 Counter + Timer
 
 ### Хичээлийн бичлэг: <https://youtu.be/1granYknAmI>
 
-### Бичсэн код: <https://github.com/Codely-academy/lesson-web-app-dev/tree/main/my-first-react/src/components/ClickSpeed>
 
 ### setInterval: Timer ажиллуулах
 ```jsx 

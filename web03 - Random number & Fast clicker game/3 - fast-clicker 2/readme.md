@@ -1,9 +1,7 @@
-# Хичээл 33: Click speed тоглоом 2
+# Click speed тоглоом 2
 
 ### Хичээлийн бичлэг: <https://youtu.be/n8YStE5nsZM>
-
-### Бичсэн код: <https://github.com/Codely-academy/lesson-web-app-dev/tree/main/my-first-react/src/components/ClickSpeed>
-
+ 
 ### NaN: Not a number буюу тоо биш гэсэн утгатай.
 - isNaN() функцийг ашиглан NaN утгатай байна уу шалгаж болно.
 ```jsx
