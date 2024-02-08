@@ -1,10 +1,6 @@
 # 1: React Tic tac буюу X O тоглоом 2
 - ![Alt text](tic-tac.gif)
 
-### Хичээлийн бичлэг: <https://youtu.be/20IoiuLIShA>
-
-### Бичсэн код: <https://github.com/Codely-academy/lesson-web-app-dev/tree/main/my-first-react/src/components/lesson34%20-%20XO%20game>
-
 ### Даалгавар:
 1. Товч дарах үед дуу дугардаг болгох 
 2. Товч дарах үед X О ээлжлэн гардаг болгох  

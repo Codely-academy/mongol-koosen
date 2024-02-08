@@ -1,7 +1,5 @@
 # 2: Баг болж тоглоом бүтээх
-
-<!-- ## Memory game бичлэг 1: <https://youtu.be/fFIKJCmNzGU> -->
-
+ 
 ### 1. Тоглоом сонгох
 1. Багаараа хамтарч 4x4 хэмжээтэй "Memory matcher" тоглоом бүтээнэ.
 <https://www.memozor.com/memory-games/for-adults/emoji>
