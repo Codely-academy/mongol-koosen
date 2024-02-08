@@ -36,8 +36,6 @@ const ClickGame = () => {
                     <h1>Click here</h1>
                 </button>
             </div>
-
-
         </div>
     )
 }
