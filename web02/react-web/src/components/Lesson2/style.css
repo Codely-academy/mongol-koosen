@@ -1,0 +1,50 @@
+.info-box {
+  background-color: purple;
+  flex: 1;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+}
+.info-box h1 {
+  margin: 0;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  gap: 20px;
+}
+.container {
+  justify-content: center;
+  align-items: center;
+}
+.game {
+  width: 60vw;
+  height: 60vh;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 10px 10px 147px -8px rgba(0, 0, 0, 0.51);
+  -webkit-box-shadow: 10px 10px 147px -8px rgba(0, 0, 0, 0.51);
+  -moz-box-shadow: 10px 10px 147px -8px rgba(0, 0, 0, 0.51);
+  padding: 10px;
+  border-radius: 10px;
+}
+.button {
+  /* background-color: pink; */
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 10px;
+  border: 1px solid gray;
+  margin-top: 8px;
+  transition: 0.1s;
+}
+.button:active {
+  transform: translateY(5px);
+}

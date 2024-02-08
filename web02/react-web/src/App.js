@@ -1,8 +1,8 @@
 import './App.css';
-import GuessGame from './components/Lesson2/GuessGame';
+import ClickGame from './components/Lesson2/ClickGame';
 function App() {
   return <div className='container'>
-    <GuessGame />
+    <ClickGame />
   </div>
 }
 
