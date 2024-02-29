@@ -1,0 +1,40 @@
+.container-tic-tac {
+  background-color: aliceblue;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.main {
+  background-color: white;
+  width: 35vw;
+  /* height: 40vw; */
+  aspect-ratio: 1;
+  -webkit-box-shadow: 10px 10px 86px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 86px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 86px 0px rgba(0, 0, 0, 0.75);
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3%;
+  justify-content: center;
+  align-items: center;
+  border-radius: 24px;
+}
+.box {
+  border-radius: 24px;
+  width: 30%;
+  height: 30%;
+  background-color: #9c88ff;
+  transition: 0.3s;
+  font-size: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.box:hover {
+  background-color: #fbc531;
+  cursor: pointer;
+}

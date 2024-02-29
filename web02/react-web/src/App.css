@@ -1,4 +1,4 @@
-.box {
+/* .box {
   width: 100px;
   height: 100px;
   background-color: gold;
@@ -12,16 +12,16 @@
   justify-content: center;
   height: 100vh;
   gap: 5px;
-}
+} */
 .container {
   display: flex;
   height: 100vh;
 }
-.guess-game-container {
+/* .guess-game-container {
   background-color: lightblue;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   flex: 1;
-}
+} */
